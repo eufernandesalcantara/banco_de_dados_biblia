@@ -1,0 +1,2 @@
+# banco_de_dados_biblia
+alura_semana_dev_gemini
